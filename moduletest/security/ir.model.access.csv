@@ -1,3 +1,3 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_moduletest_lot_user,undefined.moduletest.lot,model_moduletest_lot,base.group_user,1,1,1,1
-access_moduletest_auction_user,undefined.moduletest.auction,model_moduletest_auction,base.group_user,1,1,1,1
+access_moduletest_lot_user,moduletest.moduletest.lot,model_moduletest_lot,base.group_user,1,1,1,1
+access_moduletest_auction_user,moduletest.moduletest.auction,model_moduletest_auction,base.group_user,1,1,1,1

@@ -1,6 +1,7 @@
 <odoo>
     <record model="ir.actions.act_window" id="action_auctions">
         <field name="name">Vente</field>
-        
+        <field name="res_model">moduletest.auction</field>
+        <field name="view_mode">tree,form</field>
     </record>
 </odoo>

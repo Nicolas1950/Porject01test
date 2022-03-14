@@ -1,1 +1,2 @@
-from . import lot 
+from . import lot
+from . import auction
