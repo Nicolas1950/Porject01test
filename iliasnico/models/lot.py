@@ -1,4 +1,4 @@
-from odoo import field, api, model
+from odoo import fields, api, models
 
 class Lot(models.Model):
     _name = "iliasnico.lot"
