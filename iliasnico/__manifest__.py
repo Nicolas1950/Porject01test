@@ -16,7 +16,10 @@ You could use this simplified accounting in case you work with an (external) acc
     'website': 'https://www.odoo.com/app/invoicing',
     'depends' : ['base'],
     'data': [
-        "security/ir.model.acces.csv"
+        "security/ir.model.access.csv",
+        "views/auction.xml",
+        "views/menu.xml"
+
     ],
    
     'installable': True,
