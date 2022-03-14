@@ -1,4 +1,4 @@
 <odoo>
-    <menuitem name="Salle de vente" id="sq_moduletest_menu" webicon="moduletest,static/icon.png" />
+    <menuitem name="Salle de vente" id="sq_moduletest_menu" web_icon="moduletest,static/icon.png" />
     <menuitem name="Salle de vente" id="sq_moduletest_submenu" parent="sq_moduletest_menu" action="action_auctions" />
 </odoo>
