@@ -1,0 +1,6 @@
+<odoo>
+    <record model="ir.actions.act_window" id="action_auctions">
+        <field name="name">Vente</field>
+        
+    </record>
+</odoo>
