@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
     'name' : 'iliasnico',
-    'version' : '15.0.3',
+    'version' : '15.0.4',
     'summary': 'Invoices & Payments',
     'sequence': 10,
     'description': """
