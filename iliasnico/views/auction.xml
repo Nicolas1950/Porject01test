@@ -1,0 +1,7 @@
+<odoo>
+<record model="ir.actions.act_window" id="action_auctions">
+    <field name="name">vente</field>
+    <field name="res_model">iliasnico.auction</field>
+    <field name="view_mode">tree,form</field>
+</record>
+</odoo>

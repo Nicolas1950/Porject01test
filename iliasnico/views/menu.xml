@@ -1,0 +1,4 @@
+<odoo>
+<menuitem name="salle de vente" id="iliasnico_route_menu" web_icon="iliasnico,static/logo.flo.png"/>
+<menuitem name="Salle de vente" id="salledevente_route_mena" parents="iliasnico_route_menu" action="action_auctions"/>_
+</odoo>
