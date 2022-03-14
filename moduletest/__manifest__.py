@@ -1,5 +1,5 @@
 {
-    'name' : 'module_test',
+    'name' : 'moduletest',
     'version' : '15.0.1', 
     'description' : 'Un module de test', 
 
